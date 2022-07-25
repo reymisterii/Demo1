@@ -36,6 +36,9 @@ body {
     align-items: center;
     z-index: 2;
 }
+header {
+    z-index: 2;
+}
 .logo {
     font-size: 26px;
     line-height:1.19231;
