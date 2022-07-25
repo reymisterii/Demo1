@@ -1,0 +1,40 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  stroke-width: 0;
+  stroke: currentColor;
+  fill: currentColor;
+}
+
+/* ==========================================
+Single-colored icons can be modified like so:
+.icont-vectorname {
+  font-size: 32px;
+  color: red;
+}
+========================================== */
+
+.icont-vectorClient1 {
+  width: 1.84765625em;
+}
+
+.icont-vectorClient2 {
+  width: 1.84765625em;
+}
+
+.icont-vectorClient3 {
+  width: 1.84765625em;
+}
+
+.icont-vectorClient4 {
+  width: 1.84765625em;
+}
+
+.icont-vectorClient5 {
+  width: 1.84765625em;
+}
+
+.icont-vectorClient6 {
+  width: 1.84765625em;
+}
